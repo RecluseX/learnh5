@@ -1,13 +1,37 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-<title>Page Title</title>
+	<title>My Page</title>
+	<meta charset="UTF-8">
 </head>
 
-<body>
+<body style="background-color:powderblue">
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-
+<h1 style="color:blue;font-family:courier;font-size:300%;text-align:center;"><i>For my girl</i></h1>
+<hr>
+<p title="this is a title;" 
+style="color:red;font-family:verdana;font-size:160%;text-align:center;">
+<abbr title="FMG">For my girl.</abbr></p>
+<blockquote cite="https://www.worldwildlife.org">
+Here is a quote.
+</blockquote>
+<hr>
+<h2>H2 Heading</h2>
+<hr>
+<p>Second paragraph</p>
+<a href="https://www.w3schools.com">This is a link</a>
+<br>
+<hr>
+<img sytle="text-align:center"src="pic.jpg" alt="Dragon" width="640" height="480">
+<br>
+<p><cite>The Dragon</cite> by RecluseX. 2017.</p>
+<hr>
+<address>
+Written by RecluseX.<br>
+Visit us at:<br>
+Example.com<br>
+China
+</address>
 </body>
 </html>
